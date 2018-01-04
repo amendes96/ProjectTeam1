@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testing.org/testng-1.0.dtd">
+
+<suite name="Best Buy" parallel="none">
+
+    <test name="Test BestBuy Home">
+
+        <!--<Enter the required fields>-->
+        <parameter name="browser_name" value="chrome"/>
+        <parameter name="operating_system" value="windows"/>
+        <parameter name="URL" value="https://www.bestbuy.com/">
+
+            <classes>
+                <class name=""/>
+
+            </classes>
+        </parameter>
+
+    </test>
+</suite>

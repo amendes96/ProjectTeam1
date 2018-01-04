@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Amazon/Amazon.iml" filepath="$PROJECT_DIR$/Amazon/Amazon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BestBuy/BestBuy.iml" filepath="$PROJECT_DIR$/BestBuy/BestBuy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Facebook/Facebook.iml" filepath="$PROJECT_DIR$/Facebook/Facebook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic/Generic.iml" filepath="$PROJECT_DIR$/Generic/Generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjectTeam1.iml" filepath="$PROJECT_DIR$/ProjectTeam1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Youtube/Youtube.iml" filepath="$PROJECT_DIR$/Youtube/Youtube.iml" />
+    </modules>
+  </component>
+</project>

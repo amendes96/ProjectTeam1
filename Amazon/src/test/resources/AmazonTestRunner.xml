@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testing.org/testng-1.0.dtd">
+
+<suite name="Amazon" parallel="none">
+
+    <test name="Test Amazon Home">
+
+        <!--<Enter the required fields>-->
+        <parameter name="browser_name" value="chrome"/>
+        <parameter name="operating_system" value="windows"/>
+        <parameter name="URL" value="https://www.amazon.com/">
+
+            <classes>
+                <class name=""/>
+
+            </classes>
+        </parameter>
+
+    </test>
+</suite>

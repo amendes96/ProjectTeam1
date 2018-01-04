@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testing.org/testng-1.0.dtd">
+
+<suite name="Facebook" parallel="none">
+
+    <test name="Test Facebook Home">
+
+        <parameter name="browser_name" value="chrome"/>
+        <parameter name="operating_system" value="windows"/>
+        <parameter name="URL" value="https://www.facebook.com/">
+
+            <classes>
+                <class name="tescases.TestSignIn"/>
+            </classes>
+        </parameter>
+
+    </test>
+</suite>
