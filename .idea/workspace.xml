@@ -4,7 +4,27 @@
     <bookmark url="file://$PROJECT_DIR$/Youtube/src/test/java/testcases/TestSignIn.java" line="14" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b71765c-b049-4efd-a292-68883b00bae1" name="Default" comment="" />
+    <list default="true" id="6b71765c-b049-4efd-a292-68883b00bae1" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Youtube/src/main/java/pageObjectModel/InvalidEmail.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Youtube/src/main/java/pageObjectModel/InvalidPassword.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Youtube/src/main/java/pageObjectModel/SearchClass.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Youtube/src/test/java/testcases/TestInvalidEmail.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Youtube/src/test/java/testcases/TestInvalidPass.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Youtube/src/test/java/testcases/TestSearch.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Amazon.iml" afterPath="$PROJECT_DIR$/Amazon/Amazon.iml" />
+      <change beforePath="$PROJECT_DIR$/BestBuy/BestBuy.iml" afterPath="$PROJECT_DIR$/BestBuy/BestBuy.iml" />
+      <change beforePath="$PROJECT_DIR$/Facebook/Facebook.iml" afterPath="$PROJECT_DIR$/Facebook/Facebook.iml" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
+      <change beforePath="$PROJECT_DIR$/Youtube/src/main/java/pageObjectModel/SignIn.java" afterPath="$PROJECT_DIR$/Youtube/src/main/java/pageObjectModel/ValidSignIn.java" />
+      <change beforePath="$PROJECT_DIR$/Youtube/src/test/java/testcases/TestSignIn.java" afterPath="$PROJECT_DIR$/Youtube/src/test/java/testcases/TestSignIn.java" />
+      <change beforePath="$PROJECT_DIR$/Youtube/src/test/resources/YoutubeTestRunner.xml" afterPath="$PROJECT_DIR$/Youtube/src/test/resources/YoutubeTestRunner.xml" />
+      <change beforePath="$PROJECT_DIR$/Youtube/target/classes/pageObjectModel/SignIn.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Youtube/target/test-classes/YoutubeTestRunner.xml" afterPath="$PROJECT_DIR$/Youtube/target/test-classes/YoutubeTestRunner.xml" />
+      <change beforePath="$PROJECT_DIR$/Youtube/target/test-classes/testcases/TestSignIn.class" afterPath="$PROJECT_DIR$/Youtube/target/test-classes/testcases/TestSignIn.class" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Generic/target/" />
@@ -31,43 +51,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestSignIn.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Youtube/src/test/java/testcases/TestSignIn.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="YoutubeTestRunner.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Youtube/src/test/resources/YoutubeTestRunner.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+            <state relative-caret-position="37">
+              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="InvalidEmail.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Youtube/src/main/java/pageObjectModel/InvalidEmail.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SignIn.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Youtube/src/main/java/pageObjectModel/SignIn.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <state relative-caret-position="389">
+              <caret line="25" column="44" lean-forward="false" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -78,46 +76,70 @@
       <file leaf-file-name="CommonAPI.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="25" column="57" lean-forward="false" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
+            <state relative-caret-position="192">
+              <caret line="27" column="44" lean-forward="false" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2687#2688#0" expanded="true" />
-                <element signature="e#2717#2718#0" expanded="true" />
-                <element signature="e#2844#2845#0" expanded="true" />
-                <element signature="e#2913#2914#0" expanded="true" />
-                <element signature="e#2971#2972#0" expanded="true" />
-                <element signature="e#3037#3038#0" expanded="true" />
-                <element signature="e#3097#3098#0" expanded="true" />
-                <element signature="e#3165#3166#0" expanded="true" />
-                <element signature="e#3352#3353#0" expanded="true" />
-                <element signature="e#3413#3414#0" expanded="true" />
-                <element signature="e#3458#3459#0" expanded="true" />
-                <element signature="e#3516#3517#0" expanded="true" />
-                <element signature="e#3563#3564#0" expanded="true" />
-                <element signature="e#3623#3624#0" expanded="true" />
-                <element signature="e#3675#3676#0" expanded="true" />
-                <element signature="e#3740#3741#0" expanded="true" />
-                <element signature="e#3790#3791#0" expanded="true" />
-                <element signature="e#3864#3865#0" expanded="true" />
-                <element signature="e#3917#3918#0" expanded="true" />
-                <element signature="e#3988#3989#0" expanded="true" />
-                <element signature="e#4043#4044#0" expanded="true" />
-                <element signature="e#4116#4117#0" expanded="true" />
-                <element signature="e#4471#4472#0" expanded="true" />
-                <element signature="e#4511#4512#0" expanded="true" />
-                <element signature="e#4579#4580#0" expanded="true" />
-                <element signature="e#4622#4623#0" expanded="true" />
-                <element signature="e#4817#4818#0" expanded="true" />
-                <element signature="e#4884#4885#0" expanded="true" />
-                <element signature="e#6226#6227#0" expanded="true" />
-                <element signature="e#6274#6275#0" expanded="true" />
-                <element signature="e#6313#6314#0" expanded="true" />
-                <element signature="e#6363#6364#0" expanded="true" />
-                <element signature="e#6408#6409#0" expanded="true" />
-                <element signature="e#6469#6470#0" expanded="true" />
-                <element signature="e#6512#6513#0" expanded="true" />
-                <element signature="e#6586#6587#0" expanded="true" />
+                <element signature="e#2686#2687#0" expanded="true" />
+                <element signature="e#2716#2717#0" expanded="true" />
+                <element signature="e#2843#2844#0" expanded="true" />
+                <element signature="e#2912#2913#0" expanded="true" />
+                <element signature="e#2970#2971#0" expanded="true" />
+                <element signature="e#3036#3037#0" expanded="true" />
+                <element signature="e#3096#3097#0" expanded="true" />
+                <element signature="e#3164#3165#0" expanded="true" />
+                <element signature="e#3351#3352#0" expanded="true" />
+                <element signature="e#3412#3413#0" expanded="true" />
+                <element signature="e#3457#3458#0" expanded="true" />
+                <element signature="e#3515#3516#0" expanded="true" />
+                <element signature="e#3562#3563#0" expanded="true" />
+                <element signature="e#3622#3623#0" expanded="true" />
+                <element signature="e#3674#3675#0" expanded="true" />
+                <element signature="e#3739#3740#0" expanded="true" />
+                <element signature="e#3789#3790#0" expanded="true" />
+                <element signature="e#3863#3864#0" expanded="true" />
+                <element signature="e#3916#3917#0" expanded="true" />
+                <element signature="e#3987#3988#0" expanded="true" />
+                <element signature="e#4042#4043#0" expanded="true" />
+                <element signature="e#4115#4116#0" expanded="true" />
+                <element signature="e#4470#4471#0" expanded="true" />
+                <element signature="e#4510#4511#0" expanded="true" />
+                <element signature="e#4578#4579#0" expanded="true" />
+                <element signature="e#4621#4622#0" expanded="true" />
+                <element signature="e#4816#4817#0" expanded="true" />
+                <element signature="e#4883#4884#0" expanded="true" />
+                <element signature="e#6225#6226#0" expanded="true" />
+                <element signature="e#6273#6274#0" expanded="true" />
+                <element signature="e#6312#6313#0" expanded="true" />
+                <element signature="e#6362#6363#0" expanded="true" />
+                <element signature="e#6407#6408#0" expanded="true" />
+                <element signature="e#6468#6469#0" expanded="true" />
+                <element signature="e#6511#6512#0" expanded="true" />
+                <element signature="e#6585#6586#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchClass.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Youtube/src/main/java/pageObjectModel/SearchClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="18" column="34" lean-forward="false" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestSearch.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Youtube/src/test/java/testcases/TestSearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -131,6 +153,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -147,13 +172,21 @@
         <option value="$PROJECT_DIR$/Amazon/pom.xml" />
         <option value="$PROJECT_DIR$/BestBuy/pom.xml" />
         <option value="$PROJECT_DIR$/Youtube/src/test/java/testYoutube/TestSignIn.java" />
-        <option value="$PROJECT_DIR$/Youtube/src/test/java/testcases/TestSignIn.java" />
         <option value="$PROJECT_DIR$/Facebook/src/test/resources/FacebookTestRunner.xml" />
         <option value="$PROJECT_DIR$/BestBuy/src/test/resources/BestBuyTestRunner.xml" />
         <option value="$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunner.xml" />
+        <option value="$PROJECT_DIR$/Youtube/src/test/java/testcases/TestSignIn.java" />
         <option value="$PROJECT_DIR$/Youtube/src/main/java/pageObjectModel/SignIn.java" />
+        <option value="$PROJECT_DIR$/Youtube/src/test/java/testcases/TestInvaldEmail.java" />
+        <option value="$PROJECT_DIR$/Youtube/src/test/java/testcases/TestInvalidEmail.java" />
+        <option value="$PROJECT_DIR$/Youtube/src/main/java/pageObjectModel/ValidSignIn.java" />
+        <option value="$PROJECT_DIR$/Youtube/src/test/java/testcases/TestInvalidPass.java" />
+        <option value="$PROJECT_DIR$/Youtube/src/main/java/pageObjectModel/InvalidEmail.java" />
+        <option value="$PROJECT_DIR$/Youtube/src/main/java/pageObjectModel/InvalidPassword.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
+        <option value="$PROJECT_DIR$/Youtube/src/test/java/testcases/TestSearch.java" />
         <option value="$PROJECT_DIR$/Youtube/src/test/resources/YoutubeTestRunner.xml" />
+        <option value="$PROJECT_DIR$/Youtube/src/main/java/pageObjectModel/SearchClass.java" />
       </list>
     </option>
   </component>
@@ -204,10 +237,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -215,10 +245,80 @@
               <item name="ProjectTeam1" type="b2602c69:ProjectViewProjectNode" />
               <item name="ProjectTeam1" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ProjectTeam1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectTeam1" type="462c0819:PsiDirectoryNode" />
+              <item name="Youtube" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectTeam1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectTeam1" type="462c0819:PsiDirectoryNode" />
+              <item name="Youtube" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectTeam1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectTeam1" type="462c0819:PsiDirectoryNode" />
+              <item name="Youtube" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectTeam1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectTeam1" type="462c0819:PsiDirectoryNode" />
+              <item name="Youtube" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectTeam1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectTeam1" type="462c0819:PsiDirectoryNode" />
+              <item name="Youtube" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pageObjectModel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectTeam1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectTeam1" type="462c0819:PsiDirectoryNode" />
+              <item name="Youtube" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectTeam1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectTeam1" type="462c0819:PsiDirectoryNode" />
+              <item name="Youtube" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectTeam1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectTeam1" type="462c0819:PsiDirectoryNode" />
+              <item name="Youtube" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testcases" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectTeam1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectTeam1" type="462c0819:PsiDirectoryNode" />
+              <item name="Youtube" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -480,35 +580,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="C__Users_alistair_IdeaProjects_ProjectTeam1_Facebook_src_test_resources_FacebookTestRunner_xml - 2018.01.03 at 18h 50m 41s.xml">
-      <configuration name="C:/Users/alistair/IdeaProjects/ProjectTeam1/Facebook/src/test/resources/FacebookTestRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_alistair_IdeaProjects_ProjectTeam1_Youtube_src_test_resources_YoutubeTestRunner_xml - 2018.01.03 at 18h 05m 21s.xml">
+    <history-entry file="C__Users_alistair_IdeaProjects_ProjectTeam1_Youtube_src_test_resources_YoutubeTestRunner_xml - 2018.01.05 at 18h 38m 11s.xml">
       <configuration name="C:/Users/alistair/IdeaProjects/ProjectTeam1/Youtube/src/test/resources/YoutubeTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_alistair_IdeaProjects_ProjectTeam1_Youtube_src_test_resources_YoutubeTestRunner_xml - 2018.01.03 at 18h 12m 23s.xml">
+    <history-entry file="C__Users_alistair_IdeaProjects_ProjectTeam1_Youtube_src_test_resources_YoutubeTestRunner_xml - 2018.01.05 at 18h 42m 00s.xml">
       <configuration name="C:/Users/alistair/IdeaProjects/ProjectTeam1/Youtube/src/test/resources/YoutubeTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_alistair_IdeaProjects_ProjectTeam1_Youtube_src_test_resources_YoutubeTestRunner_xml - 2018.01.03 at 18h 51m 02s.xml">
+    <history-entry file="C__Users_alistair_IdeaProjects_ProjectTeam1_Youtube_src_test_resources_YoutubeTestRunner_xml - 2018.01.05 at 18h 43m 39s.xml">
       <configuration name="C:/Users/alistair/IdeaProjects/ProjectTeam1/Youtube/src/test/resources/YoutubeTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_alistair_IdeaProjects_ProjectTeam1_Youtube_src_test_resources_YoutubeTestRunner_xml - 2018.01.03 at 20h 20m 24s.xml">
+    <history-entry file="C__Users_alistair_IdeaProjects_ProjectTeam1_Youtube_src_test_resources_YoutubeTestRunner_xml - 2018.01.05 at 19h 00m 53s.xml">
       <configuration name="C:/Users/alistair/IdeaProjects/ProjectTeam1/Youtube/src/test/resources/YoutubeTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_alistair_IdeaProjects_ProjectTeam1_Youtube_src_test_resources_YoutubeTestRunner_xml - 2018.01.03 at 20h 24m 17s.xml">
+    <history-entry file="C__Users_alistair_IdeaProjects_ProjectTeam1_Youtube_src_test_resources_YoutubeTestRunner_xml - 2018.01.05 at 19h 01m 39s.xml">
       <configuration name="C:/Users/alistair/IdeaProjects/ProjectTeam1/Youtube/src/test/resources/YoutubeTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_alistair_IdeaProjects_ProjectTeam1_Youtube_src_test_resources_YoutubeTestRunner_xml - 2018.01.03 at 20h 57m 29s.xml">
+    <history-entry file="C__Users_alistair_IdeaProjects_ProjectTeam1_Youtube_src_test_resources_YoutubeTestRunner_xml - 2018.01.05 at 19h 04m 15s.xml">
       <configuration name="C:/Users/alistair/IdeaProjects/ProjectTeam1/Youtube/src/test/resources/YoutubeTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestSignIn - 2018.01.03 at 18h 04m 18s.xml">
-      <configuration name="TestSignIn" configurationId="TestNG" />
+    <history-entry file="C__Users_alistair_IdeaProjects_ProjectTeam1_Youtube_src_test_resources_YoutubeTestRunner_xml - 2018.01.05 at 19h 05m 14s.xml">
+      <configuration name="C:/Users/alistair/IdeaProjects/ProjectTeam1/Youtube/src/test/resources/YoutubeTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestSignIn - 2018.01.03 at 18h 04m 59s.xml">
-      <configuration name="TestSignIn" configurationId="TestNG" />
+    <history-entry file="C__Users_alistair_IdeaProjects_ProjectTeam1_Youtube_src_test_resources_YoutubeTestRunner_xml - 2018.01.05 at 19h 06m 02s.xml">
+      <configuration name="C:/Users/alistair/IdeaProjects/ProjectTeam1/Youtube/src/test/resources/YoutubeTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestSignIn_login - 2018.01.03 at 16h 10m 35s.xml">
-      <configuration name="TestSignIn.login" configurationId="TestNG" />
+    <history-entry file="C__Users_alistair_IdeaProjects_ProjectTeam1_Youtube_src_test_resources_YoutubeTestRunner_xml - 2018.01.05 at 19h 06m 52s.xml">
+      <configuration name="C:/Users/alistair/IdeaProjects/ProjectTeam1/Youtube/src/test/resources/YoutubeTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_alistair_IdeaProjects_ProjectTeam1_Youtube_src_test_resources_YoutubeTestRunner_xml - 2018.01.05 at 19h 10m 19s.xml">
+      <configuration name="C:/Users/alistair/IdeaProjects/ProjectTeam1/Youtube/src/test/resources/YoutubeTestRunner.xml" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -517,24 +617,24 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884097" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884097" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884097" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14313222" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14313222" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32884097" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884097" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884097" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15661104" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16046213" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39892185" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -550,23 +650,197 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Youtube/src/main/java/pageObjectModel/SignIn.java</url>
-          <line>8</line>
-          <properties />
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Youtube/src/test/java/testcases/TestSignIn.java</url>
-          <line>11</line>
+          <line>12</line>
           <properties />
-          <option name="timeStamp" value="5" />
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="6" />
+      <option name="time" value="10" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Youtube/src/test/resources/YoutubeTestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Youtube/src/test/java/testcases/TestSignIn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Youtube/src/test/java/testcases/TestInvalidEmail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Youtube/src/main/java/pageObjectModel/ValidSignIn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Youtube/src/main/java/pageObjectModel/InvalidEmail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="26" column="27" lean-forward="true" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1332">
+          <caret line="89" column="28" lean-forward="true" selection-start-line="89" selection-start-column="28" selection-end-line="89" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2686#2687#0" expanded="true" />
+            <element signature="e#2716#2717#0" expanded="true" />
+            <element signature="e#2843#2844#0" expanded="true" />
+            <element signature="e#2912#2913#0" expanded="true" />
+            <element signature="e#2970#2971#0" expanded="true" />
+            <element signature="e#3036#3037#0" expanded="true" />
+            <element signature="e#3096#3097#0" expanded="true" />
+            <element signature="e#3164#3165#0" expanded="true" />
+            <element signature="e#3351#3352#0" expanded="true" />
+            <element signature="e#3412#3413#0" expanded="true" />
+            <element signature="e#3457#3458#0" expanded="true" />
+            <element signature="e#3515#3516#0" expanded="true" />
+            <element signature="e#3562#3563#0" expanded="true" />
+            <element signature="e#3622#3623#0" expanded="true" />
+            <element signature="e#3674#3675#0" expanded="true" />
+            <element signature="e#3739#3740#0" expanded="true" />
+            <element signature="e#3789#3790#0" expanded="true" />
+            <element signature="e#3863#3864#0" expanded="true" />
+            <element signature="e#3916#3917#0" expanded="true" />
+            <element signature="e#3987#3988#0" expanded="true" />
+            <element signature="e#4042#4043#0" expanded="true" />
+            <element signature="e#4115#4116#0" expanded="true" />
+            <element signature="e#4470#4471#0" expanded="true" />
+            <element signature="e#4510#4511#0" expanded="true" />
+            <element signature="e#4578#4579#0" expanded="true" />
+            <element signature="e#4621#4622#0" expanded="true" />
+            <element signature="e#4816#4817#0" expanded="true" />
+            <element signature="e#4883#4884#0" expanded="true" />
+            <element signature="e#6225#6226#0" expanded="true" />
+            <element signature="e#6273#6274#0" expanded="true" />
+            <element signature="e#6312#6313#0" expanded="true" />
+            <element signature="e#6362#6363#0" expanded="true" />
+            <element signature="e#6407#6408#0" expanded="true" />
+            <element signature="e#6468#6469#0" expanded="true" />
+            <element signature="e#6511#6512#0" expanded="true" />
+            <element signature="e#6585#6586#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Youtube/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Youtube/src/test/java/testcases/TestSignIn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Youtube/src/main/java/pageObjectModel/ValidSignIn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="25" column="57" lean-forward="false" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2686#2687#0" expanded="true" />
+            <element signature="e#2716#2717#0" expanded="true" />
+            <element signature="e#2843#2844#0" expanded="true" />
+            <element signature="e#2912#2913#0" expanded="true" />
+            <element signature="e#2970#2971#0" expanded="true" />
+            <element signature="e#3036#3037#0" expanded="true" />
+            <element signature="e#3096#3097#0" expanded="true" />
+            <element signature="e#3164#3165#0" expanded="true" />
+            <element signature="e#3351#3352#0" expanded="true" />
+            <element signature="e#3412#3413#0" expanded="true" />
+            <element signature="e#3457#3458#0" expanded="true" />
+            <element signature="e#3515#3516#0" expanded="true" />
+            <element signature="e#3562#3563#0" expanded="true" />
+            <element signature="e#3622#3623#0" expanded="true" />
+            <element signature="e#3674#3675#0" expanded="true" />
+            <element signature="e#3739#3740#0" expanded="true" />
+            <element signature="e#3789#3790#0" expanded="true" />
+            <element signature="e#3863#3864#0" expanded="true" />
+            <element signature="e#3916#3917#0" expanded="true" />
+            <element signature="e#3987#3988#0" expanded="true" />
+            <element signature="e#4042#4043#0" expanded="true" />
+            <element signature="e#4115#4116#0" expanded="true" />
+            <element signature="e#4470#4471#0" expanded="true" />
+            <element signature="e#4510#4511#0" expanded="true" />
+            <element signature="e#4578#4579#0" expanded="true" />
+            <element signature="e#4621#4622#0" expanded="true" />
+            <element signature="e#4816#4817#0" expanded="true" />
+            <element signature="e#4883#4884#0" expanded="true" />
+            <element signature="e#6225#6226#0" expanded="true" />
+            <element signature="e#6273#6274#0" expanded="true" />
+            <element signature="e#6312#6313#0" expanded="true" />
+            <element signature="e#6362#6363#0" expanded="true" />
+            <element signature="e#6407#6408#0" expanded="true" />
+            <element signature="e#6468#6469#0" expanded="true" />
+            <element signature="e#6511#6512#0" expanded="true" />
+            <element signature="e#6585#6586#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Youtube/src/test/resources/YoutubeTestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Youtube/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -583,12 +857,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Youtube/src/main/java/pageObjectModel/SignIn.java">
+    <entry file="file://$PROJECT_DIR$/Youtube/src/main/java/pageObjectModel/ValidSignIn.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="20" column="5" lean-forward="false" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -599,42 +873,42 @@
           <caret line="25" column="24" lean-forward="false" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2687#2688#0" expanded="true" />
-            <element signature="e#2717#2718#0" expanded="true" />
-            <element signature="e#2844#2845#0" expanded="true" />
-            <element signature="e#2913#2914#0" expanded="true" />
-            <element signature="e#2971#2972#0" expanded="true" />
-            <element signature="e#3037#3038#0" expanded="true" />
-            <element signature="e#3097#3098#0" expanded="true" />
-            <element signature="e#3165#3166#0" expanded="true" />
-            <element signature="e#3352#3353#0" expanded="true" />
-            <element signature="e#3413#3414#0" expanded="true" />
-            <element signature="e#3458#3459#0" expanded="true" />
-            <element signature="e#3516#3517#0" expanded="true" />
-            <element signature="e#3563#3564#0" expanded="true" />
-            <element signature="e#3623#3624#0" expanded="true" />
-            <element signature="e#3675#3676#0" expanded="true" />
-            <element signature="e#3740#3741#0" expanded="true" />
-            <element signature="e#3790#3791#0" expanded="true" />
-            <element signature="e#3864#3865#0" expanded="true" />
-            <element signature="e#3917#3918#0" expanded="true" />
-            <element signature="e#3988#3989#0" expanded="true" />
-            <element signature="e#4043#4044#0" expanded="true" />
-            <element signature="e#4116#4117#0" expanded="true" />
-            <element signature="e#4471#4472#0" expanded="true" />
-            <element signature="e#4511#4512#0" expanded="true" />
-            <element signature="e#4579#4580#0" expanded="true" />
-            <element signature="e#4622#4623#0" expanded="true" />
-            <element signature="e#4817#4818#0" expanded="true" />
-            <element signature="e#4884#4885#0" expanded="true" />
-            <element signature="e#6226#6227#0" expanded="true" />
-            <element signature="e#6274#6275#0" expanded="true" />
-            <element signature="e#6313#6314#0" expanded="true" />
-            <element signature="e#6363#6364#0" expanded="true" />
-            <element signature="e#6408#6409#0" expanded="true" />
-            <element signature="e#6469#6470#0" expanded="true" />
-            <element signature="e#6512#6513#0" expanded="true" />
-            <element signature="e#6586#6587#0" expanded="true" />
+            <element signature="e#2686#2687#0" expanded="true" />
+            <element signature="e#2716#2717#0" expanded="true" />
+            <element signature="e#2843#2844#0" expanded="true" />
+            <element signature="e#2912#2913#0" expanded="true" />
+            <element signature="e#2970#2971#0" expanded="true" />
+            <element signature="e#3036#3037#0" expanded="true" />
+            <element signature="e#3096#3097#0" expanded="true" />
+            <element signature="e#3164#3165#0" expanded="true" />
+            <element signature="e#3351#3352#0" expanded="true" />
+            <element signature="e#3412#3413#0" expanded="true" />
+            <element signature="e#3457#3458#0" expanded="true" />
+            <element signature="e#3515#3516#0" expanded="true" />
+            <element signature="e#3562#3563#0" expanded="true" />
+            <element signature="e#3622#3623#0" expanded="true" />
+            <element signature="e#3674#3675#0" expanded="true" />
+            <element signature="e#3739#3740#0" expanded="true" />
+            <element signature="e#3789#3790#0" expanded="true" />
+            <element signature="e#3863#3864#0" expanded="true" />
+            <element signature="e#3916#3917#0" expanded="true" />
+            <element signature="e#3987#3988#0" expanded="true" />
+            <element signature="e#4042#4043#0" expanded="true" />
+            <element signature="e#4115#4116#0" expanded="true" />
+            <element signature="e#4470#4471#0" expanded="true" />
+            <element signature="e#4510#4511#0" expanded="true" />
+            <element signature="e#4578#4579#0" expanded="true" />
+            <element signature="e#4621#4622#0" expanded="true" />
+            <element signature="e#4816#4817#0" expanded="true" />
+            <element signature="e#4883#4884#0" expanded="true" />
+            <element signature="e#6225#6226#0" expanded="true" />
+            <element signature="e#6273#6274#0" expanded="true" />
+            <element signature="e#6312#6313#0" expanded="true" />
+            <element signature="e#6362#6363#0" expanded="true" />
+            <element signature="e#6407#6408#0" expanded="true" />
+            <element signature="e#6468#6469#0" expanded="true" />
+            <element signature="e#6511#6512#0" expanded="true" />
+            <element signature="e#6585#6586#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -643,9 +917,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="10" column="55" lean-forward="false" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -661,6 +933,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
           <caret line="26" column="43" lean-forward="false" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -670,51 +943,43 @@
           <caret line="184" column="5" lean-forward="true" selection-start-line="184" selection-start-column="5" selection-end-line="184" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2687#2688#0" expanded="true" />
-            <element signature="e#2717#2718#0" expanded="true" />
-            <element signature="e#2844#2845#0" expanded="true" />
-            <element signature="e#2913#2914#0" expanded="true" />
-            <element signature="e#2971#2972#0" expanded="true" />
-            <element signature="e#3037#3038#0" expanded="true" />
-            <element signature="e#3097#3098#0" expanded="true" />
-            <element signature="e#3165#3166#0" expanded="true" />
-            <element signature="e#3352#3353#0" expanded="true" />
-            <element signature="e#3413#3414#0" expanded="true" />
-            <element signature="e#3458#3459#0" expanded="true" />
-            <element signature="e#3516#3517#0" expanded="true" />
-            <element signature="e#3563#3564#0" expanded="true" />
-            <element signature="e#3623#3624#0" expanded="true" />
-            <element signature="e#3675#3676#0" expanded="true" />
-            <element signature="e#3740#3741#0" expanded="true" />
-            <element signature="e#3790#3791#0" expanded="true" />
-            <element signature="e#3864#3865#0" expanded="true" />
-            <element signature="e#3917#3918#0" expanded="true" />
-            <element signature="e#3988#3989#0" expanded="true" />
-            <element signature="e#4043#4044#0" expanded="true" />
-            <element signature="e#4116#4117#0" expanded="true" />
-            <element signature="e#4471#4472#0" expanded="true" />
-            <element signature="e#4511#4512#0" expanded="true" />
-            <element signature="e#4579#4580#0" expanded="true" />
-            <element signature="e#4622#4623#0" expanded="true" />
-            <element signature="e#4817#4818#0" expanded="true" />
-            <element signature="e#4884#4885#0" expanded="true" />
-            <element signature="e#6226#6227#0" expanded="true" />
-            <element signature="e#6274#6275#0" expanded="true" />
-            <element signature="e#6313#6314#0" expanded="true" />
-            <element signature="e#6363#6364#0" expanded="true" />
-            <element signature="e#6408#6409#0" expanded="true" />
-            <element signature="e#6469#6470#0" expanded="true" />
-            <element signature="e#6512#6513#0" expanded="true" />
-            <element signature="e#6586#6587#0" expanded="true" />
+            <element signature="e#2686#2687#0" expanded="true" />
+            <element signature="e#2716#2717#0" expanded="true" />
+            <element signature="e#2843#2844#0" expanded="true" />
+            <element signature="e#2912#2913#0" expanded="true" />
+            <element signature="e#2970#2971#0" expanded="true" />
+            <element signature="e#3036#3037#0" expanded="true" />
+            <element signature="e#3096#3097#0" expanded="true" />
+            <element signature="e#3164#3165#0" expanded="true" />
+            <element signature="e#3351#3352#0" expanded="true" />
+            <element signature="e#3412#3413#0" expanded="true" />
+            <element signature="e#3457#3458#0" expanded="true" />
+            <element signature="e#3515#3516#0" expanded="true" />
+            <element signature="e#3562#3563#0" expanded="true" />
+            <element signature="e#3622#3623#0" expanded="true" />
+            <element signature="e#3674#3675#0" expanded="true" />
+            <element signature="e#3739#3740#0" expanded="true" />
+            <element signature="e#3789#3790#0" expanded="true" />
+            <element signature="e#3863#3864#0" expanded="true" />
+            <element signature="e#3916#3917#0" expanded="true" />
+            <element signature="e#3987#3988#0" expanded="true" />
+            <element signature="e#4042#4043#0" expanded="true" />
+            <element signature="e#4115#4116#0" expanded="true" />
+            <element signature="e#4470#4471#0" expanded="true" />
+            <element signature="e#4510#4511#0" expanded="true" />
+            <element signature="e#4578#4579#0" expanded="true" />
+            <element signature="e#4621#4622#0" expanded="true" />
+            <element signature="e#4816#4817#0" expanded="true" />
+            <element signature="e#4883#4884#0" expanded="true" />
+            <element signature="e#6225#6226#0" expanded="true" />
+            <element signature="e#6273#6274#0" expanded="true" />
+            <element signature="e#6312#6313#0" expanded="true" />
+            <element signature="e#6362#6363#0" expanded="true" />
+            <element signature="e#6407#6408#0" expanded="true" />
+            <element signature="e#6468#6469#0" expanded="true" />
+            <element signature="e#6511#6512#0" expanded="true" />
+            <element signature="e#6585#6586#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="42" column="25" lean-forward="false" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -722,6 +987,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
           <caret line="33" column="4" lean-forward="false" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -737,7 +1003,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="8" column="48" lean-forward="false" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -753,7 +1018,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -777,67 +1041,320 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Youtube/src/test/java/testcases/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Youtube/src/main/java/pageObjectModel/SignIn.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.4.0/selenium-support-3.4.0.jar!/org/openqa/selenium/support/pagefactory/DefaultElementLocatorFactory.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        <state relative-caret-position="216">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.4.0/selenium-support-3.4.0.jar!/org/openqa/selenium/support/pagefactory/DefaultElementLocator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.4.0/selenium-support-3.4.0.jar!/org/openqa/selenium/support/PageFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.4.0/selenium-support-3.4.0.jar!/org/openqa/selenium/support/pagefactory/DefaultFieldDecorator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="63" column="0" lean-forward="false" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.4.0/selenium-support-3.4.0.jar!/org/openqa/selenium/support/pagefactory/internal/LocatingElementHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.13.1/testng-6.13.1.jar!/org/testng/xml/XmlClass.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Youtube/src/main/java/pageObjectModel/ValidSignIn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+    <entry file="file://$PROJECT_DIR$/Youtube/src/test/java/testcases/TestInvalidEmail.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="25" column="57" lean-forward="false" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
+        <state relative-caret-position="216">
+          <caret line="12" column="32" lean-forward="false" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2687#2688#0" expanded="true" />
-            <element signature="e#2717#2718#0" expanded="true" />
-            <element signature="e#2844#2845#0" expanded="true" />
-            <element signature="e#2913#2914#0" expanded="true" />
-            <element signature="e#2971#2972#0" expanded="true" />
-            <element signature="e#3037#3038#0" expanded="true" />
-            <element signature="e#3097#3098#0" expanded="true" />
-            <element signature="e#3165#3166#0" expanded="true" />
-            <element signature="e#3352#3353#0" expanded="true" />
-            <element signature="e#3413#3414#0" expanded="true" />
-            <element signature="e#3458#3459#0" expanded="true" />
-            <element signature="e#3516#3517#0" expanded="true" />
-            <element signature="e#3563#3564#0" expanded="true" />
-            <element signature="e#3623#3624#0" expanded="true" />
-            <element signature="e#3675#3676#0" expanded="true" />
-            <element signature="e#3740#3741#0" expanded="true" />
-            <element signature="e#3790#3791#0" expanded="true" />
-            <element signature="e#3864#3865#0" expanded="true" />
-            <element signature="e#3917#3918#0" expanded="true" />
-            <element signature="e#3988#3989#0" expanded="true" />
-            <element signature="e#4043#4044#0" expanded="true" />
-            <element signature="e#4116#4117#0" expanded="true" />
-            <element signature="e#4471#4472#0" expanded="true" />
-            <element signature="e#4511#4512#0" expanded="true" />
-            <element signature="e#4579#4580#0" expanded="true" />
-            <element signature="e#4622#4623#0" expanded="true" />
-            <element signature="e#4817#4818#0" expanded="true" />
-            <element signature="e#4884#4885#0" expanded="true" />
-            <element signature="e#6226#6227#0" expanded="true" />
-            <element signature="e#6274#6275#0" expanded="true" />
-            <element signature="e#6313#6314#0" expanded="true" />
-            <element signature="e#6363#6364#0" expanded="true" />
-            <element signature="e#6408#6409#0" expanded="true" />
-            <element signature="e#6469#6470#0" expanded="true" />
-            <element signature="e#6512#6513#0" expanded="true" />
-            <element signature="e#6586#6587#0" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Youtube/src/test/java/testcases/.gitignore">
+    <entry file="file://$PROJECT_DIR$/Youtube/src/test/java/testcases/TestInvalidPass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.4.0/selenium-remote-driver-3.4.0.jar!/org/openqa/selenium/remote/RemoteWebDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="152" column="37" lean-forward="false" selection-start-line="152" selection-start-column="37" selection-end-line="152" selection-end-column="37" />
+          <folding>
+            <marker date="1514062001076" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1514062001076" expanded="false" signature="150:2837" ph="..." />
+            <marker date="1514062001076" expanded="true" signature="3655:3844" ph="{...}" />
+            <marker date="1514062001076" expanded="true" signature="3907:4004" ph="{...}" />
+            <marker date="1514062001076" expanded="true" signature="4093:4987" ph="{...}" />
+            <marker date="1514062001076" expanded="true" signature="4993:5011" ph="/**...*/" />
+            <marker date="1514062001076" expanded="true" signature="5150:5230" ph="{...}" />
+            <marker date="1514062001076" expanded="true" signature="5236:5254" ph="/**...*/" />
+            <marker date="1514062001076" expanded="true" signature="5386:5509" ph="{...}" />
+            <marker date="1514062001076" expanded="true" signature="5591:5692" ph="{...}" />
+            <marker date="1514062001076" expanded="true" signature="5743:7201" ph="{...}" />
+            <marker date="1514062001076" expanded="true" signature="7258:7456" ph="{...}" />
+            <marker date="1514062001076" expanded="false" signature="7493:7504" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="7526:7532" ph=" }" />
+            <marker date="1514062001076" expanded="false" signature="7583:7594" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="7636:7642" ph=" }" />
+            <marker date="1514062001076" expanded="true" signature="7710:7785" ph="{...}" />
+            <marker date="1514062001076" expanded="true" signature="7888:10007" ph="{...}" />
+            <marker date="1514062001076" expanded="true" signature="10042:10049" ph="{}" />
+            <marker date="1514062001076" expanded="false" signature="10115:10126" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="10145:10151" ph=" }" />
+            <marker date="1514062001076" expanded="true" signature="10157:10175" ph="/**...*/" />
+            <marker date="1514062001076" expanded="true" signature="10292:10374" ph="{...}" />
+            <marker date="1514062001076" expanded="true" signature="10408:10415" ph="{}" />
+            <marker date="1514062001076" expanded="false" signature="10479:10490" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="10508:10514" ph=" }" />
+            <marker date="1514062001076" expanded="true" signature="10520:10538" ph="/**...*/" />
+            <marker date="1514062001076" expanded="true" signature="10654:10735" ph="{...}" />
+            <marker date="1514062001076" expanded="false" signature="10778:10789" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="10814:10820" ph=" }" />
+            <marker date="1514062001076" expanded="false" signature="10875:10886" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="10914:10920" ph=" }" />
+            <marker date="1514062001076" expanded="false" signature="10969:10980" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="11001:11007" ph=" }" />
+            <marker date="1514062001076" expanded="false" signature="11072:11083" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="11108:11114" ph=" }" />
+            <marker date="1514062001076" expanded="false" signature="11157:11168" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="11193:11199" ph=" }" />
+            <marker date="1514062001076" expanded="false" signature="11232:11243" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="11292:11298" ph=" }" />
+            <marker date="1514062001076" expanded="true" signature="11329:11488" ph="{...}" />
+            <marker date="1514062001076" expanded="true" signature="11524:11824" ph="{...}" />
+            <marker date="1514062001076" expanded="true" signature="11911:12600" ph="{...}" />
+            <marker date="1514062001076" expanded="false" signature="12649:12660" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="12689:12695" ph=" }" />
+            <marker date="1514062001076" expanded="false" signature="12737:12748" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="12776:12782" ph=" }" />
+            <marker date="1514062001076" expanded="true" signature="12846:13519" ph="{...}" />
+            <marker date="1514062001076" expanded="true" signature="13619:13885" ph="{...}" />
+            <marker date="1514062001076" expanded="true" signature="13956:14806" ph="{...}" />
+            <marker date="1514062001076" expanded="false" signature="14859:14870" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="14907:14913" ph=" }" />
+            <marker date="1514062001076" expanded="false" signature="14973:14984" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="15022:15028" ph=" }" />
+            <marker date="1514062001076" expanded="false" signature="15087:15098" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="15142:15148" ph=" }" />
+            <marker date="1514062001076" expanded="false" signature="15214:15225" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="15270:15276" ph=" }" />
+            <marker date="1514062001076" expanded="true" signature="15343:15411" ph="{...}" />
+            <marker date="1514062001076" expanded="true" signature="15485:15554" ph="{...}" />
+            <marker date="1514062001076" expanded="false" signature="15612:15623" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="15666:15672" ph=" }" />
+            <marker date="1514062001076" expanded="false" signature="15737:15748" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="15792:15798" ph=" }" />
+            <marker date="1514062001076" expanded="false" signature="15853:15864" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="15903:15909" ph=" }" />
+            <marker date="1514062001076" expanded="false" signature="15971:15982" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="16022:16028" ph=" }" />
+            <marker date="1514062001076" expanded="false" signature="16088:16099" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="16144:16150" ph=" }" />
+            <marker date="1514062001076" expanded="false" signature="16217:16228" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="16274:16280" ph=" }" />
+            <marker date="1514062001076" expanded="false" signature="16342:16353" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="16400:16406" ph=" }" />
+            <marker date="1514062001076" expanded="false" signature="16475:16486" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="16534:16540" ph=" }" />
+            <marker date="1514062001076" expanded="false" signature="16596:16607" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="16647:16653" ph=" }" />
+            <marker date="1514062001076" expanded="false" signature="16716:16727" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="16768:16774" ph=" }" />
+            <marker date="1514062001076" expanded="false" signature="16809:16820" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="16876:16882" ph=" }" />
+            <marker date="1514062001076" expanded="false" signature="16907:16918" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="16940:16946" ph=" }" />
+            <marker date="1514062001076" expanded="true" signature="16971:17195" ph="{...}" />
+            <marker date="1514062001076" expanded="true" signature="17239:17642" ph="{...}" />
+            <marker date="1514062001076" expanded="false" signature="17679:17690" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="17763:17769" ph=" }" />
+            <marker date="1514062001076" expanded="true" signature="17834:18433" ph="{...}" />
+            <marker date="1514062001076" expanded="true" signature="18503:19092" ph="{...}" />
+            <marker date="1514062001076" expanded="false" signature="19135:19146" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="19195:19201" ph=" }" />
+            <marker date="1514062001076" expanded="false" signature="19238:19249" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="19298:19304" ph=" }" />
+            <marker date="1514062001076" expanded="false" signature="19338:19349" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="19399:19405" ph=" }" />
+            <marker date="1514062001076" expanded="false" signature="19434:19445" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="19497:19503" ph=" }" />
+            <marker date="1514062001076" expanded="false" signature="19580:19591" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="19618:19624" ph=" }" />
+            <marker date="1514062001076" expanded="false" signature="19687:19698" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="19720:19726" ph=" }" />
+            <marker date="1514062001076" expanded="false" signature="19768:19779" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="19798:19804" ph=" }" />
+            <marker date="1514062001076" expanded="true" signature="19886:22784" ph="{...}" />
+            <marker date="1514062001076" expanded="false" signature="22832:22843" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="22891:22897" ph=" }" />
+            <marker date="1514062001076" expanded="false" signature="22945:22956" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="22982:22988" ph=" }" />
+            <marker date="1514062001076" expanded="false" signature="23043:23054" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="23115:23121" ph=" }" />
+            <marker date="1514062001076" expanded="false" signature="23156:23167" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="23200:23206" ph=" }" />
+            <marker date="1514062001076" expanded="false" signature="23241:23252" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="23273:23279" ph=" }" />
+            <marker date="1514062001076" expanded="false" signature="23308:23319" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="23337:23343" ph=" }" />
+            <marker date="1514062001076" expanded="true" signature="23450:24144" ph="{...}" />
+            <marker date="1514062001076" expanded="false" signature="24187:24198" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="24223:24229" ph=" }" />
+            <marker date="1514062001076" expanded="true" signature="24260:24501" ph="{...}" />
+            <marker date="1514062001076" expanded="true" signature="24531:24624" ph="{...}" />
+            <marker date="1514062001076" expanded="true" signature="24607:24618" ph="{}" />
+            <marker date="1514062001076" expanded="true" signature="24673:25892" ph="{...}" />
+            <marker date="1514062001076" expanded="true" signature="24704:24715" ph="{}" />
+            <marker date="1514062001076" expanded="false" signature="24746:24761" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="24806:24816" ph=" }" />
+            <marker date="1514062001076" expanded="false" signature="24846:24861" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="24905:24915" ph=" }" />
+            <marker date="1514062001076" expanded="false" signature="24948:24963" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="25034:25044" ph=" }" />
+            <marker date="1514062001076" expanded="true" signature="25094:25201" ph="{...}" />
+            <marker date="1514062001076" expanded="true" signature="25277:25723" ph="{...}" />
+            <marker date="1514062001076" expanded="true" signature="25802:25886" ph="{...}" />
+            <marker date="1514062001076" expanded="true" signature="25959:28992" ph="{...}" />
+            <marker date="1514062001076" expanded="true" signature="26001:26012" ph="{}" />
+            <marker date="1514062001076" expanded="true" signature="26061:26207" ph="{...}" />
+            <marker date="1514062001076" expanded="true" signature="26258:26964" ph="{...}" />
+            <marker date="1514062001076" expanded="true" signature="27022:27261" ph="{...}" />
+            <marker date="1514062001076" expanded="true" signature="27302:27419" ph="{...}" />
+            <marker date="1514062001076" expanded="true" signature="27480:28368" ph="{...}" />
+            <marker date="1514062001076" expanded="true" signature="28412:28638" ph="{...}" />
+            <marker date="1514062001076" expanded="true" signature="28682:28827" ph="{...}" />
+            <marker date="1514062001076" expanded="true" signature="28858:28986" ph="{...}" />
+            <marker date="1514062001076" expanded="true" signature="29051:29586" ph="{...}" />
+            <marker date="1514062001076" expanded="true" signature="29088:29099" ph="{}" />
+            <marker date="1514062001076" expanded="false" signature="29127:29142" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="29181:29191" ph=" }" />
+            <marker date="1514062001076" expanded="false" signature="29222:29237" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="29279:29289" ph=" }" />
+            <marker date="1514062001076" expanded="false" signature="29325:29340" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="29370:29380" ph=" }" />
+            <marker date="1514062001076" expanded="false" signature="29413:29428" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="29474:29484" ph=" }" />
+            <marker date="1514062001076" expanded="false" signature="29515:29530" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="29570:29580" ph=" }" />
+            <marker date="1514062001076" expanded="true" signature="29650:36289" ph="{...}" />
+            <marker date="1514062001076" expanded="true" signature="29695:29706" ph="{}" />
+            <marker date="1514062001076" expanded="false" signature="29748:29763" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="29802:29812" ph=" }" />
+            <marker date="1514062001076" expanded="true" signature="29859:29991" ph="{...}" />
+            <marker date="1514062001076" expanded="true" signature="30044:30144" ph="{...}" />
+            <marker date="1514062001076" expanded="false" signature="30193:30208" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="30249:30259" ph=" }" />
+            <marker date="1514062001076" expanded="false" signature="30299:30314" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="30363:30373" ph=" }" />
+            <marker date="1514062001076" expanded="true" signature="30415:31848" ph="{...}" />
+            <marker date="1514062001076" expanded="true" signature="31900:32281" ph="{...}" />
+            <marker date="1514062001076" expanded="false" signature="32317:32332" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="32399:32409" ph=" }" />
+            <marker date="1514062001076" expanded="false" signature="32442:32457" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="32534:32544" ph=" }" />
+            <marker date="1514062001076" expanded="false" signature="32590:32605" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="32670:32680" ph=" }" />
+            <marker date="1514062001076" expanded="true" signature="32751:34365" ph="{...}" />
+            <marker date="1514062001076" expanded="true" signature="32833:32848" ph="{}" />
+            <marker date="1514062001076" expanded="true" signature="32904:33062" ph="{...}" />
+            <marker date="1514062001076" expanded="true" signature="33122:33267" ph="{...}" />
+            <marker date="1514062001076" expanded="true" signature="33308:33682" ph="{...}" />
+            <marker date="1514062001076" expanded="true" signature="33723:34105" ph="{...}" />
+            <marker date="1514062001076" expanded="false" signature="34141:34160" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="34214:34228" ph=" }" />
+            <marker date="1514062001076" expanded="false" signature="34266:34285" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="34341:34355" ph=" }" />
+            <marker date="1514062001076" expanded="true" signature="34426:35235" ph="{...}" />
+            <marker date="1514062001076" expanded="true" signature="34467:34482" ph="{}" />
+            <marker date="1514062001076" expanded="true" signature="34553:34729" ph="{...}" />
+            <marker date="1514062001076" expanded="true" signature="34802:34976" ph="{...}" />
+            <marker date="1514062001076" expanded="true" signature="35048:35225" ph="{...}" />
+            <marker date="1514062001076" expanded="true" signature="35308:36283" ph="{...}" />
+            <marker date="1514062001076" expanded="true" signature="35359:35374" ph="{}" />
+            <marker date="1514062001076" expanded="true" signature="35430:35587" ph="{...}" />
+            <marker date="1514062001076" expanded="true" signature="35633:35788" ph="{...}" />
+            <marker date="1514062001076" expanded="true" signature="35831:35983" ph="{...}" />
+            <marker date="1514062001076" expanded="false" signature="36021:36040" ph=" { " />
+            <marker date="1514062001076" expanded="false" signature="36086:36100" ph=" }" />
+            <marker date="1514062001076" expanded="true" signature="36156:36273" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.4.0/selenium-remote-driver-3.4.0.jar!/org/openqa/selenium/remote/internal/JsonToWebElementConverter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="20" column="11" lean-forward="false" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+          <folding>
+            <marker date="1514062001076" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1514062001076" expanded="false" signature="159:511" ph="..." />
+            <marker date="1514062001076" expanded="true" signature="693:704" ph=" { " />
+            <marker date="1514062001076" expanded="true" signature="725:731" ph=" }" />
+            <marker date="1514062001076" expanded="true" signature="772:1964" ph="{...}" />
+            <marker date="1514062001076" expanded="true" signature="2017:2215" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.4.0/selenium-remote-driver-3.4.0-sources.jar!/org/openqa/selenium/remote/internal/JsonToWebElementConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.4.0/selenium-remote-driver-3.4.0-sources.jar!/org/openqa/selenium/remote/RemoteWebDriver.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -853,10 +1370,92 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="27" column="44" lean-forward="false" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2686#2687#0" expanded="true" />
+            <element signature="e#2716#2717#0" expanded="true" />
+            <element signature="e#2843#2844#0" expanded="true" />
+            <element signature="e#2912#2913#0" expanded="true" />
+            <element signature="e#2970#2971#0" expanded="true" />
+            <element signature="e#3036#3037#0" expanded="true" />
+            <element signature="e#3096#3097#0" expanded="true" />
+            <element signature="e#3164#3165#0" expanded="true" />
+            <element signature="e#3351#3352#0" expanded="true" />
+            <element signature="e#3412#3413#0" expanded="true" />
+            <element signature="e#3457#3458#0" expanded="true" />
+            <element signature="e#3515#3516#0" expanded="true" />
+            <element signature="e#3562#3563#0" expanded="true" />
+            <element signature="e#3622#3623#0" expanded="true" />
+            <element signature="e#3674#3675#0" expanded="true" />
+            <element signature="e#3739#3740#0" expanded="true" />
+            <element signature="e#3789#3790#0" expanded="true" />
+            <element signature="e#3863#3864#0" expanded="true" />
+            <element signature="e#3916#3917#0" expanded="true" />
+            <element signature="e#3987#3988#0" expanded="true" />
+            <element signature="e#4042#4043#0" expanded="true" />
+            <element signature="e#4115#4116#0" expanded="true" />
+            <element signature="e#4470#4471#0" expanded="true" />
+            <element signature="e#4510#4511#0" expanded="true" />
+            <element signature="e#4578#4579#0" expanded="true" />
+            <element signature="e#4621#4622#0" expanded="true" />
+            <element signature="e#4816#4817#0" expanded="true" />
+            <element signature="e#4883#4884#0" expanded="true" />
+            <element signature="e#6225#6226#0" expanded="true" />
+            <element signature="e#6273#6274#0" expanded="true" />
+            <element signature="e#6312#6313#0" expanded="true" />
+            <element signature="e#6362#6363#0" expanded="true" />
+            <element signature="e#6407#6408#0" expanded="true" />
+            <element signature="e#6468#6469#0" expanded="true" />
+            <element signature="e#6511#6512#0" expanded="true" />
+            <element signature="e#6585#6586#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Youtube/src/main/java/pageObjectModel/InvalidPassword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="28" column="31" lean-forward="true" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Youtube/src/main/java/pageObjectModel/InvalidEmail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="25" column="44" lean-forward="false" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Youtube/src/test/java/testcases/TestSignIn.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Youtube/src/test/java/testcases/TestSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Youtube/src/main/java/pageObjectModel/SearchClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="34" lean-forward="false" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -865,8 +1464,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Youtube/src/test/resources/YoutubeTestRunner.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        <state relative-caret-position="37">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>

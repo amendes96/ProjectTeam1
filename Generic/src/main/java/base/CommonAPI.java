@@ -10,7 +10,6 @@ import org.openqa.selenium.opera.OperaDriver;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Parameters;
-
 import java.util.concurrent.TimeUnit;
 
 public class CommonAPI {
@@ -26,8 +25,8 @@ public class CommonAPI {
     @Parameters({"browser_name", "operating_system", "URL"})
     public void setUp(String browserName, String os, String url) {
         getLocalDriver(browserName, os);
-        driver.get(url);
         driver.manage().window().maximize();
+        driver.get(url);
         driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
         driver.manage().timeouts().pageLoadTimeout(35, TimeUnit.SECONDS);
     }
